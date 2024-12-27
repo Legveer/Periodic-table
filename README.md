@@ -1,9 +1,9 @@
 # Periodic-table
 
-##Disclaimer
+## Disclaimer
 This is a freeCodeCamp Certification Project.
 
-##Instructions
+## Instructions
 You are started with a periodic_table database that has information about some chemical elements. You can connect to it by entering psql --username=freecodecamp --dbname=periodic_table in the terminal. You may want to get a little familiar with the existing tables, columns, and rows. Read the instructions below and complete user stories to finish the project. Certain tests may not pass until other user stories are complete. Good luck!
 
 Part 1: Fix the database
@@ -23,7 +23,7 @@ If you leave your virtual machine, your database may not be saved. You can make 
 
 If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the periodic_table.sql file, as well as the final version of your element.sh file, in a public repository and submit the URL to it on freeCodeCamp.org.
 
-##Requirements
+## Requirements
 You should rename the weight column to atomic_mass
 
 You should rename the melting_point column to melting_point_celsius and the boiling_point column to boiling_point_celsius
